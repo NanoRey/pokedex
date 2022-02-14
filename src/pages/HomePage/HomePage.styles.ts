@@ -24,12 +24,6 @@ export const useStyles = makeStyles(() => {
                 flexDirection: 'column',
                 alignItems: 'center',
                 marginBottom: '1rem',
-                // '@media (min-width: 320px)': {
-                //     wight: '15px',
-                //     whiteSpace: 'nowrap',
-                //     overflow: 'hidden',
-                //     textOverflow: 'ellipsis',
-                // },
             },
 
             '&>div:last-child': {

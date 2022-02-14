@@ -15,7 +15,7 @@ function App(): JSX.Element {
     }, [dispatch]);
 
     return (
-        <div className="App">
+        <div className="App" data-testid="App">
             <HomePage />
         </div>
     );
